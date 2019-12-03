@@ -9,5 +9,6 @@ public class User {
 
         System.out.println("Hello,Git!");
         System.out.println("修改了哦");
+        System.out.println("第二次修改");
     }
 }
