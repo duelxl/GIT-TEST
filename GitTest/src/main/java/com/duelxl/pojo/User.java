@@ -8,5 +8,6 @@ public class User {
     public void sayHello(){
 
         System.out.println("Hello,Git!");
+        System.out.println("修改了哦");
     }
 }
